@@ -1,4 +1,4 @@
-# VIT GeoFencing Attendance App
+# GeoFencing Attendance App
 
 A mobile application that marks a users attendance using location data and uploads a photo proof for cofirmation.
 
